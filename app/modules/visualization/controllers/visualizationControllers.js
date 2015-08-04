@@ -3428,8 +3428,8 @@ function($scope, $route, $routeParams, $modal, Event, Metric, Visualization, $lo
 
 }])
 
-
-angular.module('pcApp.visualization').filter('pagination', function()
+//angular.module('pcApp.visualization')
+.filter('pagination', function()
 {
  return function(input, start)
  {

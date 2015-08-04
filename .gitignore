@@ -2,6 +2,8 @@ node_modules/
 app/fonts/icomoon/
 app/.sass-cache/
 bower_components
+dist
+app/bower_components
 development.json
 config.js
 .idea
